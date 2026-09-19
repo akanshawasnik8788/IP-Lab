@@ -1,1 +1,1 @@
-# IP-Lab
+# Image-Processing-LAB
